@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ce8df658.css",
-    "main.js": "./static/js/main.518cceff.js",
+    "main.css": "./static/css/main.4a0fec82.css",
+    "main.js": "./static/js/main.e427b3a8.js",
     "static/media/Rubik-Regular.eot": "./static/media/Rubik-Regular.e9a53b3b0ea17fd8c478.eot",
     "static/media/Rubik-Regular.ttf": "./static/media/Rubik-Regular.bc2b7498ffcc55de3867.ttf",
     "static/media/Rubik-Light.eot": "./static/media/Rubik-Light.4c753ed7ab8199667578.eot",
@@ -24,11 +24,11 @@
     "static/media/schedule.svg": "./static/media/schedule.cf273f72c6753a9f7becb4a2ad3cd1bf.svg",
     "static/media/burger menu.svg": "./static/media/burger menu.d13fa4ee8f2f6b9c601e74507638ed71.svg",
     "static/media/cross.svg": "./static/media/cross.0d770c8fbdd819df12f9fcbe8407ab75.svg",
-    "main.ce8df658.css.map": "./static/css/main.ce8df658.css.map",
-    "main.518cceff.js.map": "./static/js/main.518cceff.js.map"
+    "main.4a0fec82.css.map": "./static/css/main.4a0fec82.css.map",
+    "main.e427b3a8.js.map": "./static/js/main.e427b3a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce8df658.css",
-    "static/js/main.518cceff.js"
+    "static/css/main.4a0fec82.css",
+    "static/js/main.e427b3a8.js"
   ]
 }
