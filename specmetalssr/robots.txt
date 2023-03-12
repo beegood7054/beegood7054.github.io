@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-Host: spec-metal.ru
-Sitemap: https://spec-metal.ru/sitemap.xml
